@@ -2,7 +2,7 @@
 
 PERN (Postgres,Express,React,Node js)
 
-Its a simple Reminder web app that save our notes. Tried to implement the CURD operation in this app using node js.
+Its a simple Reminder web app that save our notes. Tried to implement the CRUD operation in this app using node js.
 
 Features:
 1. search bar
